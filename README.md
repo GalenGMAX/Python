@@ -1,2 +1,2 @@
-# python_stuff
+# python repository
 personal Python learning stuffs
