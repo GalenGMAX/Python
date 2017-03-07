@@ -1,0 +1,13 @@
+#My learning notes for Python
+
+1. the difference bewteen input() and raw_input().
+	eval(raw_input())=input()
+
+2. you can use %r as a universal "string formatting operations" for all types of variables. Pay attention to the comma at the end of the line. 
+	print "%r\r" % str_xxx,
+
+3. use pydoc to find out help info.
+	pydoc sys
+
+
+
